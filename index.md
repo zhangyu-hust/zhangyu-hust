@@ -3,7 +3,7 @@
 
 ## EDUCATION INFO
 - Sep. 2016 - Now. Ph.D (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
-- Sep. 2012 - Jul. 2016. B.S., Computer Science and Technology, Northeast Forestry University, Heilongjiang, China.
+- Sep. 2012 - Jul. 2016. B.S. (supervised by A. P. [Dan Li](https://icec.nefu.edu.cn/info/1023/1576.htm)), Computer Science and Technology, Northeast Forestry University, Heilongjiang, China.
 
 ## INTERNSHIP
 - Nov. 2017 - Now. Intern, Tencent Inc., Shenzhen, China.
