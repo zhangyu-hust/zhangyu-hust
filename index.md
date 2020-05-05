@@ -2,11 +2,11 @@
 **[Yu Zhang](https://github.com/zydirtyfish)** is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), Wuhan, China. Prior to his Ph.D. journey, he received the B.S. degree from Computer Science and Technology, Northeast Forestry University, Heilongjiang, China, in 2016. His current main research interests include cloud storage systems, cache theory, non-volatile memory devices, etc. He has published papers in international conferences and journals including ATC, DAC, DATE, ICCD, TPDS, etc.
 
 ## EDUCATION INFO
-- Sep 2015-Now. Ph.D (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
-- Sep 2011-Jul 2015. B.S., Faculty of Mathematics and Statistics, Hubei University, Wuhan, China.
+- Sep 2016 - Now. Ph.D (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
+- Sep 2012 - Jul 2016. B.S., Computer Science and Technology, Northeast Forestry University, Heilongjiang, China.
 
 ## INTERNSHIP
-- May-Nov, 2019. Intern, Tencent Inc., Shenzhen, China.
+- Sep 2017 - Now. Intern, Tencent Inc., Shenzhen, China.
 
 ## PUBLICATIONS
 - ***Accepted***
