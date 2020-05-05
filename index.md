@@ -11,7 +11,7 @@
 ## PUBLICATIONS
 1. **Yu Zhang**, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In 2020 USENIX Annual Technical Conference (ATC '20). (CCF A)
 2. **Yu Zhang**, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In 2020 Design, Automation and Test (DATE '20). (CCF B)       
-3. Ke Zhou, **Yu Zhang**, Ping Huang*, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A)
+3. Ke Zhou, **Yu Zhang**, Ping Huang\*, Hua Wang\*, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A)
 4. Ke Zhou, **Yu Zhang**, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B)
 5. Hua Wang, Yang Yang, Ping Huang, **Yu Zhang**, Ke Zhou*, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In 2020 Design Automation Conference (DAC '20). (CCF A)
 
