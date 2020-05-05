@@ -17,6 +17,8 @@
 
 ## AWARDS
 - Oct. 2013, **National Scholarships** awarded by the Chinese Ministry of Education.
+- Oct. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
+- May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
 
 ## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
