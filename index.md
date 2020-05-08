@@ -19,11 +19,11 @@
 
 <li>Hua Wang, Yang Yang, Ping Huang, <strong>Yu Zhang</strong>, Ke Zhou*, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In 2020 Design Automation Conference (DAC '20). (CCF A)</li>
 
-<li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741"><strong>↓PDF</strong></a></li>
+<li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741"><strong>↓Pdf</strong></a></li>
 
 <li>Dan Li, Erhu He, Yanrong Zhang, <strong>Yu Zhang</strong>. Teaching and practice innovation of embedded system design course based on proteus and Keil-electronic stopwatch as an example. International Journal of Smart Home 9.4 (2015): 127-134. (EI Indexed)</li>
 
-<li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741) </li>
+<li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed)</li>
 </ol>
 
 <!--
