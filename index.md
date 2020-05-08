@@ -23,7 +23,7 @@
 
 <li>Dan Li, Erhu He, Yanrong Zhang, <strong>Yu Zhang</strong>. Teaching and practice innovation of embedded system design course based on proteus and Keil-electronic stopwatch as an example. International Journal of Smart Home 9.4 (2015): 127-134. (EI Indexed)</li>
 
-<li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed)</li>
+<li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741) </li>
 </ol>
 
 <!--
