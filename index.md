@@ -13,7 +13,7 @@
 2. **Yu Zhang**, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In 2020 Design, Automation and Test (DATE '20). (CCF B)       
 3. Ke Zhou, **Yu Zhang**, Ping Huang*, Hua Wang, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A)
 4. Hua Wang, Yang Yang, Ping Huang, **Yu Zhang**, Ke Zhou*, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In 2020 Design Automation Conference (DAC '20). (CCF A)
-5. Ke Zhou, **Yu Zhang**, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741)
+5. Ke Zhou, **Yu Zhang**, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) **[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741)**
 6. Dan Li, Erhu He, Yanrong Zhang, **Yu Zhang**. Teaching and practice innovation of embedded system design course based on proteus and Keil-electronic stopwatch as an example. International Journal of Smart Home 9.4 (2015): 127-134. (EI Indexed)
 7. **Yu Zhang**, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed)
 
