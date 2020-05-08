@@ -10,31 +10,14 @@
 
 ## PUBLICATIONS
 <ol>
-
 <li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In 2020 USENIX Annual Technical Conference (ATC '20). (CCF A)</li>
-
 <li><strong>Yu Zhang</strong>, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In 2020 Design, Automation and Test (DATE '20). (CCF B) </li>
-
 <li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang*, Hua Wang, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A)</li>
-
 <li>Hua Wang, Yang Yang, Ping Huang, <strong>Yu Zhang</strong>, Ke Zhou*, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In 2020 Design Automation Conference (DAC '20). (CCF A)</li>
-
 <li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741"><strong>↓pdf</strong></a></li>
-
 <li>Dan Li, Erhu He, Yanrong Zhang, <strong>Yu Zhang</strong>. Teaching and practice innovation of embedded system design course based on proteus and Keil-electronic stopwatch as an example. International Journal of Smart Home 9.4 (2015): 127-134. (EI Indexed)</li>
-
 <li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed)</li>
 </ol>
-
-<!--
-1. **Yu Zhang**, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In 2020 USENIX Annual Technical Conference (ATC '20). (CCF A)
-2. **Yu Zhang**, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In 2020 Design, Automation and Test (DATE '20). (CCF B)       
-3. Ke Zhou, **Yu Zhang**, Ping Huang*, Hua Wang, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A)
-4. Hua Wang, Yang Yang, Ping Huang, **Yu Zhang**, Ke Zhou*, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In 2020 Design Automation Conference (DAC '20). (CCF A)
-5. Ke Zhou, **Yu Zhang**, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In 2018 IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) **[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615741)**
-6. Dan Li, Erhu He, Yanrong Zhang, **Yu Zhang**. Teaching and practice innovation of embedded system design course based on proteus and Keil-electronic stopwatch as an example. International Journal of Smart Home 9.4 (2015): 127-134. (EI Indexed)
-7. **Yu Zhang**, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed)
--->
 
 ## PROJECTS
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
