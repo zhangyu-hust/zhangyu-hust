@@ -10,7 +10,7 @@
 
 ## PUBLICATIONS
 <ol>
-<li>**Yu Zhang**, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In 2020 USENIX Annual Technical Conference (ATC '20). (CCF A)</li>
+<li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In 2020 USENIX Annual Technical Conference (ATC '20). (CCF A)</li>
 <li>**Yu Zhang**, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In 2020 Design, Automation and Test (DATE '20). (CCF B) </li>
 </ol>
 
