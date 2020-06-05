@@ -28,7 +28,7 @@
 
 - ***Under review***
 <ol>
-<li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang*</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) (<strong>Corresponding author</strong>).
+<li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang*</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) (<strong>Corresponding author</strong>)</li>
 </ol>
 
 ## PROJECTS
