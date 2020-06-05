@@ -25,6 +25,11 @@
 <li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed) <a href="http://www.cit.iit.bas.bg/CIT_2014/v14-s/6BJTU--06-md-Gotovo.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 </ol>
 
+- Under review
+<ol>
+<li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed) <a href="http://www.cit.iit.bas.bg/CIT_2014/v14-s/6BJTU--06-md-Gotovo.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+</ol>
+
 ## PROJECTS
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
 
