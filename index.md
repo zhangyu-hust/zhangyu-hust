@@ -28,6 +28,8 @@
 
 - ***Under review***
 <ol>
+ <li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. Efficient Cache Allocation Scheme for Cloud Block Storage via using an Online Cache Model. IEEE Transactions on Computers (TC). (CCF A, JCR Q2, SCI Indexed)</li>
+ 
 <li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang*</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) (<strong>Corresponding author</strong>)</li>
 </ol>
 
