@@ -38,6 +38,9 @@
 ## PROJECTS
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
 
+## Blogs
+- **[WriteSomething](https://zydirtyfish.github.io)
+
 ## AWARDS
 - Oct. 2013, **National Scholarships** awarded by the Chinese Ministry of Education.
 - Oct. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
