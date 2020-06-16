@@ -1,11 +1,7 @@
 ## BIOGRAPHY
 **[Yu Zhang](https://github.com/zhangyu-hust)** is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), Wuhan, China. Prior to his Ph.D. journey, he received the B.S. degree from Computer Science and Technology, Northeast Forestry University (NEFU), Heilongjiang, China, in 2016. His current main research interests include cloud storage systems, cache theory, non-volatile memory devices, etc. He has published papers in international conferences and journals including ATC, DAC, DATE, ICCD, TPDS, etc.
 
-|||
-| :----- | ----: |
-| **Email**: **[yuzhang2016@hust.edu.cn](yuzhang2016@hust.edu.cn)** | **CV**: **[Yu-Zhang.pdf](yu-zhang.pdf)** |
-
-**Email**: **[yuzhang2016@hust.edu.cn](yuzhang2016@hust.edu.cn)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CV**: **[Yu-Zhang.pdf](yu-zhang.pdf)**
+**Email**: **[yuzhang2016@hust.edu.cn](yuzhang2016@hust.edu.cn)** &nbsp;&nbsp;&nbsp; **CV**: **[Yu-Zhang.pdf](yu-zhang.pdf)**
 
 ## EDUCATION INFO
 - Sep. 2016 - Now. Ph.D (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
@@ -16,6 +12,7 @@
 
 ## PUBLICATIONS
 - ***Accepted***
+1. **Yu Zhang**, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. ~~In USENIX Annual Technical Conference~~ (ATC '20). (CCF A)
 <ol>
 <li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In USENIX Annual Technical Conference (ATC '20). (CCF A)</li>
 
