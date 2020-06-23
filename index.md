@@ -37,6 +37,11 @@
 <li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang*</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In Proceedings of the IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) (<strong>Corresponding author</strong>)</li>
 </ol>
 
+## PATENTS
+<ol>
+<li>Write Policy: CN111104066A <a href="http://www.cit.iit.bas.bg/CIT_2014/v14-s/6BJTU--06-md-Gotovo.pdf"><strong><font color="#267cb9">Link</font></strong></a></li>
+</ol>
+
 ## PROJECTS
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
 
