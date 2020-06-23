@@ -52,8 +52,9 @@
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
 
 ## AWARDS
-- Oct. 2013, **National Scholarships** awarded by the Chinese Ministry of Education.
-- Oct. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
+- Nov. 2013, **National Scholarships** awarded by the Chinese Ministry of Education.
+- May 2014, **Merit Student** of Heilongjiang Province.
+- Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
 - May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
 
 ## CONTACT ME
