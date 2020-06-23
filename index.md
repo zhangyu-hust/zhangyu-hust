@@ -39,13 +39,13 @@
 
 ## PATENTS
 <ol>
-<li><strong>Yu Zhang</strong>, Ke Zhou, et al. Data writing methods, devices, and storage servers and computer readable storage media. CN111104066A. China. <a href="https://patentimages.storage.googleapis.com/f8/01/59/6d2c525e9319cf/CN111104066A.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+<li><strong>Yu Zhang</strong>, Ke Zhou, et al. Data writing methods, devices, and storage servers and computer readable storage media. CN111104066A. China. <a href="patents/CN111104066A.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 
-<li>Ke Zhou, <strong>Yu Zhang</strong>, et al. Caching methods, devices, equipment and storage media for data blocks. CN109144431A. China. <a href="https://patentimages.storage.googleapis.com/ca/00/49/c9e97d9c67a2b0/CN109144431A.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+<li>Ke Zhou, <strong>Yu Zhang</strong>, et al. Caching methods, devices, equipment and storage media for data blocks. CN109144431A. China. <a href="patents/CN109144431A.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 
-<li>Ke Zhou, <strong>Yu Zhang</strong>, et al. Method and device for buffering data blocks，computer device，and computer-readable storage media. PCT/CN2019/105509. International Patent. <a href="https://patentimages.storage.googleapis.com/9f/7c/65/889271bec72e7a/WO2020063355A1.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+<li>Ke Zhou, <strong>Yu Zhang</strong>, et al. Method and device for buffering data blocks，computer device，and computer-readable storage media. PCT/CN2019/105509. International Patent. <a href="patents/WO2020063355A1.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 
-<li>Dan Li, <strong>Yu Zhang</strong>, et al. Forest environmental monitoring devices. CN204177420U. China. <a href="https://patentimages.storage.googleapis.com/7c/1b/1d/c5f8acc323be81/CN204177420U.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+<li>Dan Li, <strong>Yu Zhang</strong>, et al. Forest environmental monitoring devices. CN204177420U. China. <a href="patents/CN204177420U.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 </ol>
 
 ## PROJECTS
