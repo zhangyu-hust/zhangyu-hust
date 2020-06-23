@@ -8,7 +8,7 @@
 - Sep. 2012 - Jul. 2016. B.S. (supervised by Associate Prof. [Dan Li](https://icec.nefu.edu.cn/info/1023/1576.htm)), Computer Science and Technology, Northeast Forestry University, Heilongjiang, China.
 
 ## INTERNSHIP
-- Feb. 2016 - Now. Intern, Tencent Inc., Shenzhen, China.
+- Feb. 2016 - Now. Intern, **Tencent Inc.**, Shenzhen, China. (Internship as part of the **Intelligent Cloud Storage Joint Research center of HUST**)
 
 ## PUBLICATIONS
 - ***Accepted***
