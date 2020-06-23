@@ -39,7 +39,7 @@
 
 ## PATENTS
 <ol>
-<li>Write Policy: CN111104066A <a href="http://www.cit.iit.bas.bg/CIT_2014/v14-s/6BJTU--06-md-Gotovo.pdf"><strong><font color="#267cb9">Link</font></strong></a></li>
+<li><strong>Yu Zhang</strong>, Ke Zhou, et al. Data writing methods, devices, and storage servers and computer readable storage media. CN111104066A. China <a href="https://patentimages.storage.googleapis.com/f8/01/59/6d2c525e9319cf/CN111104066A.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 </ol>
 
 ## PROJECTS
