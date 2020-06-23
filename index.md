@@ -58,5 +58,5 @@
 
 ## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
-- **Email**: yuzhang2016@hust.edu.cn
+- **Email**: yuzhang2016[at]hust.edu.cn
 - **Tel**: +86-13277076975
