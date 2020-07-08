@@ -17,7 +17,7 @@
 
 <li><strong>Yu Zhang</strong>, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In Proceedings of the Design, Automation and Test (DATE '20). (CCF B) <a href="papers/DATE_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a> </li>
 
-<li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang*, Hua Wang, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A, JCR Q2, SCI Indexed) <a href="papers/TPDS_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+<li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang*, Hua Wang, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A, JCR Q1, SCI Indexed) <a href="papers/TPDS_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 
 <li>Hua Wang, Yang Yang, Ping Huang, <strong>Yu Zhang</strong>, Ke Zhou*, Mengling Tao, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In Proceedings of the Design Automation Conference (DAC '20). (CCF A)</li>
  
