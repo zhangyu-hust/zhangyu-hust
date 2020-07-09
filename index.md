@@ -1,5 +1,5 @@
 ## BIOGRAPHY
-**[Yu Zhang](https://github.com/zhangyu-hust)** is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST), Wuhan, China. Prior to his Ph.D. journey, he received the B.S. degree from Computer Science and Technology, Northeast Forestry University (NEFU), Heilongjiang, China, in 2016. His current main research interests include cloud storage systems, cache theory, non-volatile memory devices, etc. He has published papers in international conferences and journals including ATC, DAC, DATE, ICCD, TPDS, etc.
+**[Yu Zhang](https://github.com/zhangyu-hust)** is currently a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (**[HUST](http://english.hust.edu.cn/)**), Wuhan, China. Prior to his Ph.D. journey, he received the B.S. degree from Computer Science and Technology, Northeast Forestry University (**[NEFU](http://en.nefu.edu.cn/)**), Heilongjiang, China, in 2016. His current main research interests include cloud storage systems, cache theory, non-volatile memory devices, etc. He has published papers in international conferences and journals including ATC, DAC, DATE, ICCD, TPDS, etc.
 
 **Email**: **[mail[at]yuzhang.pro](mail@yuzhang.pro)** &nbsp;&nbsp;&nbsp; **CV**: **[Yu-Zhang.pdf](yu-zhang.pdf)**
 
@@ -49,7 +49,7 @@
 </ol>
 
 ## PROJECTS
-- Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[National Innovation Project of College Students](http://www.moe.gov.cn/s78/A08/A08_gggs/A08_sjhj/201411/t20141113_178161.html)** (2014). [↓pdf](project/project_1.jpg)
+- Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[National Innovation Project of College Students](http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_scjy/cxcyjy_jhxmmd/)** (2014). [↓pdf](project/project_1.jpg)
    + It mainly develops a precise acquisition system of forest environmental factors based on wireless sensor network technology. The design of this system   combines hardware and software, applying sensor and internet of things technologies, and develops a practical and real-time system.
 
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
