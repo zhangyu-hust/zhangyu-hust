@@ -49,7 +49,7 @@
 </ol>
 
 ## PROJECTS
-- Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **National Innovation Project of College Students** (2014). [↓pdf](project/project_1.jpg)
+- Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[National Innovation Project of College Students](http://www.moe.gov.cn/s78/A08/A08_gggs/A08_sjhj/201411/t20141113_178161.html)** (2014). [↓pdf](project/project_1.jpg)
    + It mainly develops a precise acquisition system of forest environmental factors based on wireless sensor network technology. The design of this system   combines hardware and software, applying sensor and internet of things technologies, and develops a practical and real-time system.
 
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
