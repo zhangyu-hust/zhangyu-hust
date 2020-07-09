@@ -58,6 +58,7 @@
 - Nov. 2013, **[National Scholarships](http://www.moe.gov.cn/srcsite/A05/s7505/201312/t20131213_161004.html)** awarded by the Chinese Ministry of Education.
 - May 2014, **Merit Student** of Heilongjiang Province.
 - Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
+- Nov. 2015, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
 - May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
 
 ## CONTACT ME
