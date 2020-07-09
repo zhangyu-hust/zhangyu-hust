@@ -4,8 +4,8 @@
 **Email**: **[mail[at]yuzhang.pro](mail@yuzhang.pro)** &nbsp;&nbsp;&nbsp; **CV**: **[Yu-Zhang.pdf](yu-zhang.pdf)**
 
 ## EDUCATION INFO
-- Sep. 2016 - Now. Ph.D (supervised by Prof. [Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
-- Sep. 2012 - Jul. 2016. B.S. (supervised by Associate Prof. [Dan Li](https://icec.nefu.edu.cn/info/1023/1576.htm)), Computer Science and Technology, Northeast Forestry University, Heilongjiang, China.
+- Sep. 2016 - Now. Ph.D (supervised by Prof. **[Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm)**), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
+- Sep. 2012 - Jul. 2016. B.S. (supervised by Associate Prof. **[Dan Li](https://icec.nefu.edu.cn/info/1023/1576.htm)**), Computer Science and Technology, Northeast Forestry University, Heilongjiang, China.
 
 ## INTERNSHIP
 - Feb. 2016 - Now. Intern, **[Tencent Inc.](https://www.tencent.com/en-us/about.html)**, Shenzhen, China. (Internship as part of the **[Intelligent Cloud Storage Joint Research center of HUST](https://ur.tencent.com/cooperation/lab)**)
@@ -49,7 +49,7 @@
 </ol>
 
 ## PROJECTS
-- Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[National Innovation Project of College Students](http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_scjy/cxcyjy_jhxmmd/)** (2014). [↓pdf](project/project_1.jpg)
+- Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[National Innovation Project of College Students](http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_scjy/cxcyjy_jhxmmd/)** (2014). **[↓pdf](project/project_1.jpg)**
    + It mainly develops a precise acquisition system of forest environmental factors based on wireless sensor network technology. The design of this system   combines hardware and software, applying sensor and internet of things technologies, and develops a practical and real-time system.
 
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
