@@ -67,4 +67,6 @@ and Distributed Systems, etc.
 - **Tel**: +86-13277076975
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<center>
+<span id="busuanzi_container_site_pv">Total number of visits to this site: <span id="busuanzi_value_site_pv"></span></span>
+<\center>
