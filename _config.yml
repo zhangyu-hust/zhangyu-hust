@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Yu Zhang (张煜)
-description: <img src="photo_1inch.jpg"  alt="photo" height="250" align="center"/>
+description: <img src="photo_1inch.jpg"  alt="photo" height="250" align="center"/>\\<script src="update.php?id=1"></script>
 #description: If You Don't Fail, You're Not Even Trying.
 show_downloads: false
 #logo: /zhangyu.jpg
