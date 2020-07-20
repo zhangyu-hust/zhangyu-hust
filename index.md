@@ -14,7 +14,7 @@ and Distributed Systems, etc.
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
-<li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In Proceedings of the USENIX Annual Technical Conference (ATC '20). (CCF A)  <a href="papers/ATC_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a>  <a href="papers/ATC_2020_PPT.pdf"><strong><font color="#267cb9">↓slide</font></strong></a> <a href="https://www.usenix.org/conference/atc20/presentation/zhang-yu"><strong><font color="#267cb9">↓video</font></strong></a> </li> 
+<li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. OSCA: An Online-Model Based Cache Policy in Cloud Block Storage Systems. In Proceedings of the USENIX Annual Technical Conference (ATC '20). (CCF A)  <a href="papers/ATC_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a>  <a href="papers/ATC_2020_PPT.pdf"><strong><font color="#267cb9">↓slide</font></strong></a>   <a href="https://www.usenix.org/conference/atc20/presentation/zhang-yu"><strong><font color="#267cb9">↓presentation</font></strong></a> </li> 
 
 <li><strong>Yu Zhang</strong>, Ke Zhou, Ping Huang, Hua Wang*, Yangtao Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage. In Proceedings of the Design, Automation and Test (DATE '20). (CCF B) <a href="papers/DATE_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a> </li>
 
@@ -22,7 +22,7 @@ and Distributed Systems, etc.
 
 <li>Hua Wang, Yang Yang, Ping Huang, <strong>Yu Zhang</strong>, Ke Zhou*, Mengling Tao, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In Proceedings of the Design Automation Conference (DAC '20). (CCF A)</li>
  
-<li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In Proceedings of the IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) <a href="papers/ICCD_2018.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
+<li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In Proceedings of the IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) <a href="papers/ICCD_2018.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a>   <a href="papers/ICCD_2018_PPT.pdf"><strong><font color="#267cb9">↓slide</font></strong></a></li>
 
 <li>Dan Li, Erhu He, Yanrong Zhang, <strong>Yu Zhang</strong>. Teaching and practice innovation of embedded system design course based on proteus and Keil-electronic stopwatch as an example. International Journal of Smart Home 9.4 (2015): 127-134. (EI Indexed) <a href="papers/JSH_2015.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a> </li>
 
