@@ -35,7 +35,7 @@ and Distributed Systems, etc.
  
 <!--li><strong>Yu Zhang</strong>, Ke Zhou*. A survey on AI for storage. ACM Transactions on Storage (TOS). (CCF A, JCR Q3, SCI Indexed)</li-->
  
-<li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang*</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In Proceedings of the IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) <!--(<strong>Corresponding author</strong>)--></li>
+<li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In Proceedings of the IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) <!--(<strong>Corresponding author</strong>)--></li>
 </ol>
 
 ## PATENTS
