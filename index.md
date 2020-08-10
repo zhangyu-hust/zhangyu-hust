@@ -50,7 +50,7 @@ and Distributed Systems, etc.
 </ol>
 
 ## PROJECTS
-- **[HitTool](https://github.com/dudulu233/RAR_CM_simulator)** is a tool for constructing MRC.
+- **[EMA-Tool](https://github.com/dudulu233/EMA-Tool)** is an <u>E</u>fficient <u>M</u>RC <u>A</u>nalysis tool.
    + This is a opensource tool for online Miss Ratio Curve (MRC) profiling based on [RAR cache model](http://yuzhang.pro/papers/ATC_2020.pdf). We have also released some block-level traces (collected from [Tencent CBS](https://intl.cloud.tencent.com/product/cbs)) to the [SNIA IOTTA repository](http://iotta.snia.org/tracetypes/4).
 
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
