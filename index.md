@@ -56,7 +56,7 @@ and Distributed Systems, etc.
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
    + This is a simulator of the of [flashcache](https://github.com/facebookarchive/flashcache) (an open source block level cache for flash cache).
 
-- **In charge of National Innovation Project**. Jun. 2014 - Jun. 2015. Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[National Innovation Project of College Students](http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_scjy/cxcyjy_jhxmmd/)** (2014). **[↓pdf](project/project_1.pdf)**
+- **[In charge of National Innovation Project of College Students](http://www.moe.gov.cn/jyb_xxgk/zdgk_sxml/sxml_gdjy/gdjy_scjy/cxcyjy_jhxmmd/)**. Jun. 2014 - Jun. 2015. Research on Accurate Acquisition Technology of Forest Environmental Factors Based on Internet of Things. **[↓pdf](project/project_1.pdf)**
    + It mainly develops a precise acquisition system of forest environmental factors based on wireless sensor network technology. The design of this system   combines hardware and software, applying sensor and internet of things technologies, and develops a practical and real-time system.
 
 ## AWARDS
