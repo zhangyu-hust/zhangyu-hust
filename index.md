@@ -50,7 +50,8 @@ and Distributed Systems, etc.
 </ol>
 
 ## PROJECTS
-- **[RAR-CM](https://github.com/dudulu233/RAR_CM_simulator)** is a opensource tool for online Miss Ratio Curve (MRC) profiling based on [RAR cache model](http://yuzhang.pro/papers/ATC_2020.pdf). We have also released some block-level traces (collected from [Tencent CBS](https://intl.cloud.tencent.com/product/cbs)) to the [SNIA IOTTA repository](http://iotta.snia.org/tracetypes/4).
+- **[HitTool](https://github.com/dudulu233/RAR_CM_simulator)** is a tool for constructing MRC.
+   + This is a opensource tool for online Miss Ratio Curve (MRC) profiling based on [RAR cache model](http://yuzhang.pro/papers/ATC_2020.pdf). We have also released some block-level traces (collected from [Tencent CBS](https://intl.cloud.tencent.com/product/cbs)) to the [SNIA IOTTA repository](http://iotta.snia.org/tracetypes/4).
 
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
    + This is a simulator of the of [flashcache](https://github.com/facebookarchive/flashcache) (an open source block level cache for flash cache).
