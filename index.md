@@ -29,7 +29,7 @@ and Distributed Systems, etc.
 <li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed) <a href="papers/CIT_2014.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 </ol>
 
-; - ***Under review***
+;- ***Under review***
 <!--ol-->
 <!--li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. Efficient Cache Allocation Scheme for Cloud Block Storage via using an Online Cache Model. IEEE Transactions on Computers (TC). (CCF A, JCR Q2, SCI Indexed)</li-->
  
