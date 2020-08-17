@@ -29,14 +29,14 @@ and Distributed Systems, etc.
 <li><strong>Yu Zhang</strong>, Xugang Liu, Xue Geng, Dan Li*. IoT Forest Environmental Factors Collection Platform Based on ZIGBEE. Cybernetics and Information Technologies 14.5 (2014): 51-62. (EI Indexed) <a href="papers/CIT_2014.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 </ol>
 
-- ***Under review***
-<ol>
+; - ***Under review***
+<!--ol-->
 <!--li><strong>Yu Zhang</strong>, Ping Huang, Ke Zhou*, Hua Wang, Jianying Hu, Yongguang Ji, and Bin Cheng. Efficient Cache Allocation Scheme for Cloud Block Storage via using an Online Cache Model. IEEE Transactions on Computers (TC). (CCF A, JCR Q2, SCI Indexed)</li-->
  
 <!--li><strong>Yu Zhang</strong>, Ke Zhou*. A survey on AI for storage. ACM Transactions on Storage (TOS). (CCF A, JCR Q3, SCI Indexed)</li-->
  
-<li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In Proceedings of the IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) <!--(<strong>Corresponding author</strong>)--></li>
-</ol>
+<!--li>Hua Wang, Xiaoyun Xing,<strong>Yu Zhang</strong>, Yongguang Ji. AOP: An Adaptive Overload Prediction Scheme for Cloud Block Storage Systems. In Proceedings of the IEEE 38th International Conference on Computer Design (ICCD '20). (CCF B) (<strong>Corresponding author</strong>)</li-->
+<!--/ol-->
 
 ## PATENTS
 <ol>
@@ -51,7 +51,7 @@ and Distributed Systems, etc.
 
 ## PROJECTS
 - **[EMA-Tool](https://github.com/dudulu233/EMA-Tool)** is an <u>E</u>fficient <u>M</u>RC <u>A</u>nalysis tool.
-   + This is a opensource tool for online Miss Ratio Curve (MRC) profiling based on [RAR cache model](http://yuzhang.pro/papers/ATC_2020.pdf). We have also released some block-level traces (collected from [Tencent CBS](https://intl.cloud.tencent.com/product/cbs)) to the [SNIA IOTTA repository](http://iotta.snia.org/tracetypes/4).
+   + This is an opensource tool for online Miss Ratio Curve (MRC) profiling based on [RAR cache model](http://yuzhang.pro/papers/ATC_2020.pdf). We have also released some block-level traces (collected from [Tencent CBS](https://intl.cloud.tencent.com/product/cbs)) to the [SNIA IOTTA repository](http://iotta.snia.org/tracetypes/4).
 
 - **[BlockCacheSim](https://github.com/zydirtyfish/BlockCacheSim)** is a block-level cache simulator.
    + This is a simulator of the of [flashcache](https://github.com/facebookarchive/flashcache) (an open source block level cache for flash cache).
