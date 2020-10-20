@@ -20,7 +20,7 @@ and Distributed Systems, etc.
 
 <li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang*, Hua Wang, Yongguang Ji, Bin Cheng, and Ying Liu. Efficient SSD Cache for Cloud Block Storage via Leveraging Block Reuse Distances. IEEE Transactions on Parallel and Distributed Systems (TPDS). (CCF A, JCR Q1, SCI Indexed) <a href="papers/TPDS_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
 
-<li>Hua Wang, Yang Yang, Ping Huang, <strong>Yu Zhang</strong>, Ke Zhou*, Mengling Tao, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In Proceedings of the Design Automation Conference (DAC '20). (CCF A)</li>
+<li>Hua Wang, Yang Yang, Ping Huang, <strong>Yu Zhang</strong>, Ke Zhou*, Mengling Tao, and Bin Cheng. S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. In Proceedings of the Design Automation Conference (DAC '20). (CCF A) <a href="papers/DAC_2020.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a></li>
  
 <li>Ke Zhou, <strong>Yu Zhang</strong>, Ping Huang, Hua Wang*, Yongguang Ji, Bin Cheng, and Ying Liu. LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage. In Proceedings of the IEEE 36th International Conference on Computer Design (ICCD '18). (CCF B) <a href="papers/ICCD_2018.pdf"><strong><font color="#267cb9">↓pdf</font></strong></a>   <a href="papers/ICCD_2018_PPT.pdf"><strong><font color="#267cb9">↓slide</font></strong></a></li>
 
