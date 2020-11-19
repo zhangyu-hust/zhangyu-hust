@@ -64,6 +64,7 @@ and Distributed Systems, etc.
 - Oct. 2020, **Second Prize of Wuhan National Optoelectronic Laboratory Annual Conference** awarded by WNOL, Huazhong University of Science and Technology.
 - May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
 - Nov. 2015, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
+- May 2015, **First Prize of the Oracle Cup National Java Programming Contest** awarded by National Committee on Computer Education in College.
 - May 2014, **Second Prize of the 9th Heilongjiang Province China Programming Contest** awarded by ACM/ICPC committee.
 - May 2014, **Merit Student** of Heilongjiang Province.
 - Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
