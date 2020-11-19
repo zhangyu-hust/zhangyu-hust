@@ -63,9 +63,10 @@ and Distributed Systems, etc.
 - Nov. 2020, **Scholarship of Wuhan National Optoelectronic Laboratory** awarded by WNOL, Huazhong University of Science and Technology.
 - Oct. 2020, **Second Prize of Wuhan National Optoelectronic Laboratory Annual Conference** awarded by WNOL, Huazhong University of Science and Technology.
 - May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
+- Nov. 2015, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
 - May 2014, **Merit Student** of Heilongjiang Province.
 - Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
-- Nov. 2013, **[National Scholarships](http://www.moe.gov.cn/srcsite/A05/s7505/201312/t20131213_161004.html)** awarded by the Chinese Ministry of Education.
+- Nov. 2013, **[National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201312/t20131213_161004.html)** awarded by the Chinese Ministry of Education.
 
 ## CONTACT ME
 - **Address**: Room B-409, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Luoyu Road 1037, Hongshan District, Wuhan, China.
