@@ -60,15 +60,15 @@ and Distributed Systems, etc.
    + It mainly develops a precise acquisition system of forest environmental factors based on wireless sensor network technology. The design of this system   combines hardware and software, applying sensor and internet of things technologies, and develops a practical and real-time system.
 
 ## AWARDS
-- Nov. 2020, **Scholarship of Wuhan National Optoelectronic Laboratory** awarded by WNOL, Huazhong University of Science and Technology.
+- Nov. 2020, **Scholarship of Wuhan National Optoelectronic Laboratory** awarded by WNOL, Huazhong University of Science and Technology. (￥20000 in prize money)
 - Oct. 2020, **Second Prize of Wuhan National Optoelectronic Laboratory Annual Conference** awarded by WNOL, Huazhong University of Science and Technology.
 - May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
-- Nov. 2015, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
+- Nov. 2015, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education. (￥5000 in prize money)
 - May 2015, **First Prize of the Oracle Cup National Java Programming Contest** awarded by National Committee on Computer Education in College.
 - May 2014, **Second Prize of the 9th Heilongjiang Province China Programming Contest** awarded by ACM/ICPC committee.
 - May 2014, **Merit Student** of Heilongjiang Province.
-- Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
-- Nov. 2013, **[National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201312/t20131213_161004.html)** awarded by the Chinese Ministry of Education.
+- Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education. (￥5000 in prize money)
+- Nov. 2013, **[National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201312/t20131213_161004.html)** awarded by the Chinese Ministry of Education. (￥8000 in prize money)
 - May 2013, **Third Prize of the 8th Heilongjiang Province China Programming Contest** awarded by ACM/ICPC committee.
 
 ## CONTACT ME
