@@ -60,6 +60,8 @@ and Distributed Systems, etc.
    + It mainly develops a precise acquisition system of forest environmental factors based on wireless sensor network technology. The design of this system   combines hardware and software, applying sensor and internet of things technologies, and develops a practical and real-time system.
 
 ## AWARDS
+- Nov. 2020, **Scholarship of Wuhan National Optoelectronic Laboratory** awarded by WNOL, Huazhong University of Science and Technology.
+- Oct. 2020, **Second Prize of Wuhan National Optoelectronic Laboratory Annual Conference** awarded by WNOL, Huazhong University of Science and Technology.
 - May  2016, **Outstanding Graduates** awarded by Northeast Forestry University.
 - May 2014, **Merit Student** of Heilongjiang Province.
 - Nov. 2014, **National Inspirational Scholarship** awarded by the Chinese Ministry of Education.
